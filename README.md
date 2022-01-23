@@ -1,4 +1,4 @@
-### 
+### Hey :)
 
 Ich bin Sebi, 
 ich programmiere seit 2 Jahren in Sprachen wie HTML, CSS, PHP, Java!
